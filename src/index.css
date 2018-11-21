@@ -17,4 +17,9 @@ code {
 ::after,
 ::before {
   box-sizing: border-box;
+  font-size: 16px;
+}
+
+html {
+  font-size: 10px;
 }
