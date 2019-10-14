@@ -1,0 +1,10 @@
+.App {
+  min-height: 100vh;
+  background-color: red;
+
+  &__test {
+    background-color: tomato;
+    width: 100px;
+    height: 100px;
+  }
+}

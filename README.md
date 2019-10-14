@@ -1,3 +1,12 @@
+Это моя сборка create-react-app и некоторые полезности:
+
+1. @bem-react/classname
+2. sass
+3. redux
+4. react-router
+5. redux-thunk
+6. redux-logger
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
