@@ -1,1 +1,1 @@
-export const shit = {};
+export * from "./Alert/Alert";
