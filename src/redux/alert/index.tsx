@@ -1,3 +1,3 @@
 export * from "./actions";
 export * from "./alert.constants";
-export * from "./alert.reducer";
+export * from "./reducer/alert.reducer";
